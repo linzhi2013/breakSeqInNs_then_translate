@@ -49,6 +49,13 @@ Guanliang MENG
 ## 5 Citation
 Currently I have no plan to publish `breakSeqInNs_then_translate`.
 
+However, since `breakSeqInNs_then_translate` makes use of `Biopython`, you should also cite it if you use `breakSeqInNs_then_translate` in your work:
+
+    Peter J. A. Cock, Tiago Antao, Jeffrey T. Chang, Brad A. Chapman, Cymon J. Cox, Andrew Dalke, Iddo Friedberg, Thomas Hamelryck, Frank Kauff, Bartek Wilczynski, Michiel J. L. de Hoon: “Biopython: freely available Python tools for computational molecular biology and bioinformatics”. Bioinformatics 25 (11), 1422–1423 (2009). https://doi.org/10.1093/bioinformatics/btp163
+
+Please go to `http://www.biopython.org/` for more details.
+
+
 
 
 
