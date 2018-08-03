@@ -2,7 +2,7 @@
 
 ## 1 Introduction
 
-`breakSeqInNs_then_translate` is a tool to filter the sequences by translating the protein coding genes (PCGs) with proper genetic code table, if one of the PCGs has interal stop codon, filter out this sequence. By Guanliang MENG, see https://github.com/linzhi2013/extract_fasta_seq
+`breakSeqInNs_then_translate` is a tool to filter the sequences by translating the protein coding genes (PCGs) with proper genetic code table, if one of the PCGs has interal stop codon, filter out this sequence. By Guanliang MENG, see https://github.com/linzhi2013/breakSeqInNs_then_translate.
 
 ## 2 Installation
 
