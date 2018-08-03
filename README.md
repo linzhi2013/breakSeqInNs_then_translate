@@ -11,7 +11,8 @@
 There will be a command `breakSeqInNs_then_translate` created under the same directory as your `pip` command.
 
 ## 3 Usage
-
+    
+    $ breakSeqInNs_then_translate
     usage: breakSeqInNs_then_translate.py [-h] [-seq <seq>] [-seqfile <file>]
                                           [-seqformat {fa,gb}] [-code <int>] [-nb]
                                           [-gb_genes <int>] [-maxStopGenes <int>]
@@ -21,7 +22,8 @@ There will be a command `breakSeqInNs_then_translate` created under the same dir
     out this sequence. Beware: if the seq has Ns, then this script will translate
     the sub seqs with three frames (0, 1, 2), only when all these three kinds of
     frames have interal stopCodon the seq will be treated as have InternalStop!.
-    By Guanliang MENG, see https://github.com/linzhi2013
+    By Guanliang MENG, see
+    https://github.com/linzhi2013/breakSeqInNs_then_translate
 
     optional arguments:
       -h, --help           show this help message and exit
@@ -39,6 +41,7 @@ There will be a command `breakSeqInNs_then_translate` created under the same dir
                            has no effect on fasta input file. [5]
       -maxStopGenes <int>  the maximum number of PCGs can have InternalStops in a
                            genbank record if do not discard it [0]
+
 
 ## 4 Author
 Guanliang MENG
