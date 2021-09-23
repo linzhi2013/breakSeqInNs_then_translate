@@ -47,9 +47,9 @@ There will be a command `breakSeqInNs_then_translate` created under the same dir
 Guanliang MENG
 
 ## 5 Citation
-Currently I have no plan to publish `breakSeqInNs_then_translate`.
+Currently I have no plan to publish `breakSeqInNs_then_translate`. **However, if you use this program in your analysis, or you "steal" the idea/codes of this program into your script, I should be one of the co-authors in your publication!!!**
 
-However, since `breakSeqInNs_then_translate` makes use of `Biopython`, you should also cite it if you use `breakSeqInNs_then_translate` in your work:
+Besides, since `breakSeqInNs_then_translate` makes use of `Biopython`, you should also cite it if you use `breakSeqInNs_then_translate` in your work:
 
     Peter J. A. Cock, Tiago Antao, Jeffrey T. Chang, Brad A. Chapman, Cymon J. Cox, Andrew Dalke, Iddo Friedberg, Thomas Hamelryck, Frank Kauff, Bartek Wilczynski, Michiel J. L. de Hoon: “Biopython: freely available Python tools for computational molecular biology and bioinformatics”. Bioinformatics 25 (11), 1422–1423 (2009). https://doi.org/10.1093/bioinformatics/btp163
 
